@@ -1,0 +1,26 @@
+
+### `.gitignore`
+
+```gitignore
+# Archivos binarios
+myscript
+
+# Archivos de Go
+*.exe
+*.log
+*.out
+*.test
+*.mod
+*.sum
+
+# Archivos de configuración
+.env
+
+# Archivos de IDEs
+.idea/
+.vscode/
+*.swp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
